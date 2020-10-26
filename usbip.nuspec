@@ -18,7 +18,7 @@
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>usbip (Install)</title>
+    <title>USB&#47;IP for Windows</title>
     <authors>cezanne</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://github.com/cezanne/usbip-win</projectUrl>
